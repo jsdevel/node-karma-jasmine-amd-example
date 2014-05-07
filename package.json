@@ -1,7 +1,7 @@
 {
   "name": "karma-jasmine-amd-example",
   "version": "0.0.0",
-  "description": "karma-jasmine-amd-example =====================",
+  "description": "An example testing AMD modules in the browser with karma.",
   "scripts": {
     "test": "karma start"
   },
