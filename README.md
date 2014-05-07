@@ -1,7 +1,7 @@
 karma-jasmine-amd-example
 =====================
 
-An example testing AMD modules in the browser with karma.
+An example testing AMD modules in the browser with jasmine and karma.
 
 ## How to run?
 You can run the tests by doing one of the following:
