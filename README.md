@@ -1,4 +1,4 @@
-node-karma-jasmine-example
+karma-jasmine-example
 =====================
 
 An example running jasmine and sinon in the browser via karma.
