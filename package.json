@@ -1,0 +1,18 @@
+{
+  "name": "karma-jasmine-sinon-example",
+  "version": "0.0.0",
+  "description": "karma-jasmine-sinon-example =====================",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/karma-jasmine-sinon-example.git"
+  },
+  "author": "Joseph Spencer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsdevel/karma-jasmine-sinon-example/issues"
+  },
+  "homepage": "https://github.com/jsdevel/karma-jasmine-sinon-example"
+}
