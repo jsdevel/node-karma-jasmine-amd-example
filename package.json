@@ -1,18 +1,25 @@
 {
-  "name": "karma-jasmine-sinon-example",
+  "name": "karma-jasmine-amd-example",
   "version": "0.0.0",
-  "description": "karma-jasmine-sinon-example =====================",
+  "description": "karma-jasmine-amd-example =====================",
   "scripts": {
     "test": "karma start"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsdevel/karma-jasmine-sinon-example.git"
+    "url": "https://github.com/jsdevel/node-karma-jasmine-amd-example.git"
   },
   "author": "Joseph Spencer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsdevel/karma-jasmine-sinon-example/issues"
+    "url": "https://github.com/jsdevel/node-karma-jasmine-amd-example/issues"
   },
-  "homepage": "https://github.com/jsdevel/karma-jasmine-sinon-example"
+  "homepage": "https://github.com/jsdevel/node-karma-jasmine-amd-example",
+  "devDependencies": {
+    "karma": "~0.12.14",
+    "karma-jasmine": "~0.1.5",
+    "requirejs": "~2.1.11",
+    "karma-requirejs": "~0.2.1",
+    "karma-chrome-launcher": "~0.1.3"
+  }
 }
